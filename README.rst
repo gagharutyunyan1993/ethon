@@ -1,5 +1,11 @@
 ethon
-=====
+
+install
+=======
+
+.. code:: python
+
+    pip install ethon
 
 Usage
 =====

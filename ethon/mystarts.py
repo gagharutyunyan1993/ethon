@@ -19,4 +19,3 @@ async def vc_menu(event):
                         [Button.inline("NOTICE.", data="notice"),
                          Button.inline("Main.", data="help")],
                         [Button.url("DEVELOPER", url="t.me/MaheshChauhan")]])
-    
